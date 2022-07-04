@@ -24,4 +24,4 @@ bind=ALT,4,exec,{script_path}/move_hyprland_workspace.sh 4
 
 ...
 
-exec-once=/home/victoneux/.config/scripts/hyprland_mon_socket.sh
+exec-once={script_path}/hyprland_mon_socket.sh
