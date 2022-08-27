@@ -2,6 +2,8 @@
 
 Allows you to have workspaces seperated by monitor.
 
+THIS PROJECT IS NOW A PART OF victoneux/hyprland_dotfiles!
+
 ### Configuration
 
 bind=SUPER,1,exec,{script_path}/set_hyprland_workspace.sh 1
